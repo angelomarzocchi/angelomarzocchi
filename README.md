@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer science student.<br>Currently learning image processing using OpenCV.<br>I'm passionate about parallel computing, back-end development and Android development.
+Computer science student.<br><br>I'm passionate about parallel computing, back-end development and Android development.
 
 
 ## 🌐 Socials:
