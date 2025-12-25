@@ -1,23 +1,51 @@
-<h1 align="center">Hi , I'm Angelo Marzocchi</h1>
-<h3 align="center">A Full-stack developer with a personal passion for Android development</h3>
+# Hi there, I'm Angelo! 👋📱
 
-- 🔭 I’m currently working on [Red Cable Club](https://github.com/angelomarzocchi/RedCableClub)
+### 🚀 Android Developer
+Welcome to my profile! I am a developer passionate about mobile technologies, specialized in building modern, efficient, and scalable native Android applications. I love focusing on both software architecture and User Experience.
 
-- 🌱 I’m currently learning **Jetpack Compose**
+---
 
-- 📫 How to reach me **angelomarzocchi@proton.me**
+### 🛠 Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
+**Languages & Core:**
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**UI & Libraries:**
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-Square-green?style=for-the-badge)
+
+**Tools & CI/CD:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+
+---
+
+### 🏆 Featured Projects
+
+Here are some of the most interesting projects I have worked on:
+
+| Project | Description & Stack |
+| :--- | :--- |
+| **📰 Hacker News Client**<br>[View Repository](https://github.com/angelomarzocchi/HackerNews) | A modern client for browsing Hacker News.<br><br>✨ **Tech:** Kotlin, Jetpack Compose, Paging 3, MVVM.<br>🎯 **Focus:** Efficient large dataset handling and Material 3 UI. |
+| **🚄 Sealed Train Client**<br>[View Repository](https://github.com/angelomarzocchi/SealedTrain-Client) | Client-server project for encrypted train tickets.<br><br>✨ **Tech:** Kotlin, Android SDK, Security.<br>🎯 **Focus:** Robust architecture and data security. |
+| **🔴 Red Cable Club**<br>[View Repository](https://github.com/angelomarzocchi/RedCableClub) | An application that recreates OnePlus' Red Cable Club experience.<br><br>✨ **Tech:** Kotlin, XML/Compose, Custom Views.<br>🎯 **Focus:** UI fidelity and User Experience. |
+
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
-<a href="https://linkedin.com/in/angelo-marzocchi-46563b182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-marzocchi-46563b182" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=angelomarzocchi&show_icons=true&theme=radical&hide_border=true" alt="Angelo's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomarzocchi&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+---
 
+### 📫 Connect with me
 
-<a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d87ee38c-b71e-4e27-8ba4-665401e73157" />
-  </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelomarzocchi&show_icons=true&locale=en&layout=compact" alt="angelomarzocchi" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-marzocchi-46563b182)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelomarzocchi@proton.me)
