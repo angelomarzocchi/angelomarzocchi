@@ -36,15 +36,6 @@ Here are some of the most interesting projects I have worked on:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelomarzocchi&show_icons=true&theme=radical&hide_border=true" alt="Angelo's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomarzocchi&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-marzocchi-46563b182)
